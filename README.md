@@ -1,5 +1,5 @@
 ## Hi there :wave: 
-Hi, im Chandra Gunawan. A game programmer geek from <mark>Malang, Indonesia</mark>  :video_game: :computer:
+Im Chandra Gunawan. A game programmer geek from <mark>Malang, Indonesia</mark>  :video_game: :computer:
 
 - 🔭 I’m currently working on my mobile game with two other people.
 - 🌱 I’m currently learning to make my own 2D game engine with SFML and C++. Learn about the math and technique behind game engine.
