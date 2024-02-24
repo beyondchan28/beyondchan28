@@ -3,6 +3,7 @@ Hi, im Chandra Gunawan. A game programmer geek from <mark>Malang, Indonesia</mar
 
 - 🔭 I’m currently working on my mobile game with two other people.
 - 🌱 I’m currently learning to make my own 2D game engine with SFML and C++. Learn about the math and technique behind game engine.
+- :point_right: Take a look at my [Resume](https://github.com/beyondchan28/beyondchan28/blob/7b402e5da77511f98c9d06bf62a6d9f52e7da2e6/Chandra%20Gunawan_Game%20Programmer_CV.pdf)
 
 ## Skill and Technology Preferences
 
