@@ -16,8 +16,6 @@ Im Chandra Gunawan. A game programmer geek from <mark>Malang, Indonesia</mark>  
 <img src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white" alt="Unity">
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beyondchan28&hide_progress=true)
-
 ## Social Media
 If you had something to offer or just want to get in touch, feel free to DM me on these social media !
 
