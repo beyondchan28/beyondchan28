@@ -20,7 +20,6 @@ Im Chandra Gunawan. A game programmer geek from <mark>Malang, Indonesia</mark>  
 If you had something to offer or just want to get in touch, feel free to DM me on these social media !
 
 <p>
-<a href="https://twitter.com/the_gravital"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://www.instagram.com/thegravital"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.linkedin.com/in/beyonddd/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
 <a href="https://beyonddd.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C.svg?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch"></a>
