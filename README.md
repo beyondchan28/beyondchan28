@@ -1,11 +1,13 @@
 ### Hi there :wave: 
 Im Chandra Gunawan. A game programmer geek from <mark>Malang, Indonesia</mark> :video_game: :computer:
 
-- 🔭 I’m currently developing my own 2D web game framework/engine with only vanilla JavaScript and HTML Canvas.
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beyondchan28&repo=Beyonddd-JS)]([https://github.com/beyondchan28/Beyonddd-JS])
 - :man_technologist: Currently trying to be comfortable with system/low-level programming :star2:
-- :point_right: Take a look at my [Resume](https://github.com/beyondchan28/beyondchan28/blob/4238670ab240abfe3f32cc4b51ce6556098fa579/CV_Page_1.jpg)
+- 🔭 I’m currently developing my own 2D web game framework/engine with only vanilla JavaScript and HTML Canvas.
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beyondchan28&repo=Beyonddd-JS)]([https://github.com/beyondchan28/Beyonddd-JS])
+
+
+- :point_right: Take a look at my [Resume](https://github.com/beyondchan28/beyondchan28/blob/4238670ab240abfe3f32cc4b51ce6556098fa579/CV_Page_1.jpg)
 <!--
 **beyondchan28/beyondchan28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
