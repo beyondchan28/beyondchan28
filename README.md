@@ -7,7 +7,7 @@ Im Chandra Gunawan, Game Programmer from <mark>Malang, Indonesia</mark> :video_g
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beyondchan28&repo=Beyonddd-JS)]([https://github.com/beyondchan28/Beyonddd-JS])
 
 
-- :point_right: Take a look at my [Resume/CV](https://github.com/beyondchan28/beyondchan28/blob/2998433901a37e2e821e345e38eca0dd74f41321/CV/CV_Chandra%20Gunawan_GameProgrammer.pdf)
+- :point_right: Take a look at my [:sparkler: **Resume/CV** :sparkler:](https://github.com/beyondchan28/beyondchan28/blob/2998433901a37e2e821e345e38eca0dd74f41321/CV/CV_Chandra%20Gunawan_GameProgrammer.pdf)
 
 <!--
 **beyondchan28/beyondchan28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
