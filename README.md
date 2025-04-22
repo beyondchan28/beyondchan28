@@ -1,4 +1,4 @@
-²### Hi there :wave: 
+### Hi there :wave: 
 Im Chandra Gunawan, Game Programmer from <mark>Malang, Indonesia</mark> :video_game: :computer:
 
 - :man_technologist: Passionate about engine/tools/system programming :star2:
