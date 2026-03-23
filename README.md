@@ -1,7 +1,7 @@
 ### Hi there :wave: 
 Im Chandra Gunawan, Software Engineer from <mark>Indonesia</mark> :video_game: :computer:
-- :man_technologist: Passionate about engine/tools/system programming :star2:
-- 🌱 I’m currently learning about Nim Programming Language and 2D Game techniques/algorithm
+- :man_technologist: Love tinkering and always try to create my own solution rather than using existing one :star2:
+- 🌱 I’m currently into Go Programming Language
 
 
 > :point_right: Take a look at my [:sparkler: **Resume/CV** :sparkler:](https://github.com/beyondchan28/beyondchan28/blob/795891985453a416f66f1ed3a3b4562cad760846/CV/CV_Chandra%20Gunawan_SoftwareEngineer-EN.pdf)
