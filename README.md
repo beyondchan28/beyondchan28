@@ -6,7 +6,7 @@ Im Chandra Gunawan, Software Engineer from <mark>Indonesia</mark> :video_game: :
 
 More software engineering wisdom or just want to connect?
 
->  :point_right: Check out my personal blog, [:sparkler: **Beyond The Screen** :sparkler:](https://github.com/beyondchan28/beyondchan28/blob/795891985453a416f66f1ed3a3b4562cad760846/CV/CV_Chandra%20Gunawan_SoftwareEngineer-EN.pdf)
+>  :point_right: Check out my personal blog, [:sparkler: **Beyond The Screen** :sparkler:](https://beyondchan28.github.io/)
 
 <!--
 **beyondchan28/beyondchan28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
