@@ -1,10 +1,12 @@
 ### Hi there :wave: 
 Im Chandra Gunawan, Software Engineer from <mark>Indonesia</mark> :video_game: :computer:
 - :man_technologist: Love tinkering and always try to create my own solution rather than using existing one :star2:
-- 🌱 I’m currently into Go Programming Language
+- Just casually jump from one problem to other another
+- Technology is simply a tool for solving problems. Therefore, technology is irrelevant to a person's skills.
 
+More software engineering wisdom or just want to connect?
 
-> :point_right: Take a look at my [:sparkler: **Resume/CV** :sparkler:](https://github.com/beyondchan28/beyondchan28/blob/795891985453a416f66f1ed3a3b4562cad760846/CV/CV_Chandra%20Gunawan_SoftwareEngineer-EN.pdf)
+>  :point_right: Check out my personal blog, [:sparkler: **Beyond The Screen** :sparkler:](https://github.com/beyondchan28/beyondchan28/blob/795891985453a416f66f1ed3a3b4562cad760846/CV/CV_Chandra%20Gunawan_SoftwareEngineer-EN.pdf)
 
 <!--
 **beyondchan28/beyondchan28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
