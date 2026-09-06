@@ -1,5 +1,5 @@
 ### Hi there :wave: 
-I am Chandra Gunawan, a Software Engineer from Indonesia who loves to experiment and always tries to create his own solutions instead of using existing ones. :video_game: :computer
+I am Chandra Gunawan, a Software Engineer from Indonesia who loves to experiment and always tries to create his own solutions instead of using existing ones. :video_game: :computer:
 
 #StillTypingAndReviewCodeManually
 #GoodWithoutAIPowerfulWithAI
