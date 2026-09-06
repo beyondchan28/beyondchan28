@@ -1,11 +1,15 @@
 ### Hi there :wave: 
-I am Chandra Gunawan, a Software Engineer from Indonesia who loves to experiment and always tries to create his own solutions instead of using existing ones. :video_game: :computer:
+I am Chandra Gunawan, a Software Engineer from Indonesia who loves to experiment and always tries to create his own solutions instead of using existing ones. :video_game: :computer
 
+#StillTypingAndReviewCodeManually
+#GoodWithoutAIPowerfulWithAI
+
+<!--
 - ⚡ Fun fact: I come from a country where social status has declined. Therefore, you can hire me for a very low wage, and I can still make a living here.
 - 🌱 I’m currently trying to escape this hopeless country in any way possible.
 - 👯 I’m looking for a place with meritocracy and equal social justice.
 - 🤔 I’m looking for a help about oppotunity to work abroad.
-
+-->
 Curious about any work I ever done ?
 
 >  :point_right: Check out my personal blog, [:sparkler: **Beyond The Screen** :sparkler:](https://beyondchan28.github.io/)
